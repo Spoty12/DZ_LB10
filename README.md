@@ -26,8 +26,8 @@
 
 ## Блок-схема 
 
-![Блок-схема алгоритма](images/block_schemepng.png)
-[Открыть блок-схему](images/block_schemepng.png)
+![Блок-схема алгоритма](images/block_scheme.png)
+[Открыть блок-схему](images/block_scheme.png)
 
 ## 2. Реализация программы
 
